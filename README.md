@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tools & Technologies I use
-**Languages:** Python 
+**Languages:** Python
 **Libraries:** pandas • NumPy • scikit-learn • matplotlib • seaborn • imbalanced-learn • UMAP  
 **Platforms:** Jupyter Notebook • GitHub • Streamlit  
 **Interests:** Health Data • Machine Learning • Model Interpretability • Dashboard Design
@@ -27,7 +27,7 @@
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn] www.linkedin.com/in/brunagilgarcia
-- 📧 bruna@email.com  
+- 📧 brunagil25@email.com  
 - 🔬 Or check out my papers from microbiology days… they’re still alive somewhere!
 
 ---
